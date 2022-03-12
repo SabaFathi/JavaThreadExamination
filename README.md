@@ -14,7 +14,8 @@ So 4 scenarios were investigated:
 In each scenario, 2 charts were drawn:
 First, the number of threads is fixed and task frequency varies. Second, task frequency is fixed and the number of threads varies.
 
-The results are as follows:
+This experiment was conducted with 4 CPU cores
+and The results are as follows:
 *note that "ArrayLength" is equal to task frequency.
 
 1- directly used Thread, for light task
